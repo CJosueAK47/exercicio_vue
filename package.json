@@ -1,5 +1,5 @@
 {
-  "name": "exercicio_vue",
+  "name": "exercicio_mod27",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,10 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.3.4",
-    "vite": "^4.4.9"
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
   }
 }
